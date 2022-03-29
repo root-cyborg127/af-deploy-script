@@ -1,11 +1,11 @@
 {
     "name": "Deploying Script",
     "description": "A Script",
-    "logo": "https://telegra.ph/file/667e15c821117633d07bd.png",
+    "logo": "https://te.legra.ph/file/e711432475c497c8abf05.jpg",
     "keywords": [],
-    "website": "https://github.com/CrazyBotsz",
-    "repository": "https://github.com/AlbertEinsteinTG/af-deploy-script",
-    "success_url": "https://telegram.dog/CrazyBotsz",
+    "website": "https://github.com/root-cyborg127",
+    "repository": "https://github.com/root-cyborg127/af-deploy-script",
+    "success_url": "https://telegram.dog/milliesgreatfangroup",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
